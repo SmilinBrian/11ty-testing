@@ -1,0 +1,21 @@
+{
+  "title": "StackBlitz Test",
+  "url": "https://testeronio.com/",
+  "language": "en",
+  "description": "I am writing about my experiences with the blitz.",
+  "feed": {
+    "subtitle": "I am writing about my experiences with the blitz.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://testeronio.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "BrB",
+    "email": "brian@insidelinemc.com",
+    "url": "https://insidelinemc.com/"
+  }
+}
